@@ -4,6 +4,8 @@
 
 **2023-EE-155**
 
+## Lab 3
+
 ### Simulation
 
 * 1 code file(.sv)
